@@ -1,0 +1,46 @@
+body {background-color: #f1f1f1;}
+
+header {padding: 20px;}
+
+footer {padding: 20px;}
+
+p {color: #5e5e5e;}
+
+.step-container {
+    max-width: 1280px;
+    width: 85%;
+    height: 100%;
+    padding: 25px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.tutorial-content {
+    width: 60%;
+    float: left;
+    //border: 1px solid blue;
+    margin-bottom: 20px;
+}
+
+.tutorial-image {
+    clear: both;
+    max-width: 500px;
+    width: 35%;
+    float: right;
+}
+
+.line {
+    max-width: 896px;
+    width: 90%;
+    height: 0px;
+    margin: 0 auto;
+    border-bottom: 1px dotted #919191;
+}
+
+.divider-line {
+    //max-width: 896px;
+    width: 85%;
+    margin: 0 auto;
+    border-bottom: 2px solid #919191;
+    margin-bottom: 20px;
+}
